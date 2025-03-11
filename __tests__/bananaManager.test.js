@@ -3,7 +3,7 @@ describe("bananaManager", () => {
 
   beforeEach(() => {
     bananaManager = createBananaManager();
-  });Ё
+  });
 
   test("addBanana should add a new banana with unique ID and default status", () => {
     const banana = {
