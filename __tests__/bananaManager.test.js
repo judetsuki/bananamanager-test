@@ -1,3 +1,5 @@
+import { createBananaManager } from "../bananaManager.js";
+
 describe("bananaManager", () => {
   let bananaManager;
 

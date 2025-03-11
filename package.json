@@ -5,7 +5,7 @@
   "name": "bananamanager",
   "version": "1.0.0",
   "description": "",
-  "main": "bananaManager-74355D19-D461-5CF7-B6F0-F680A2042B67.js",
+  "main": "bananaManager.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +13,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judetsuki/bananamanager-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/judetsuki/bananamanager-test/issues"
+  },
+  "homepage": "https://github.com/judetsuki/bananamanager-test#readme"
 }
