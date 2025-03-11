@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "bananamanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bananaManager-74355D19-D461-5CF7-B6F0-F680A2042B67.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
